@@ -1,2 +1,2 @@
 # easy-feature-flag
-Annotation based feature flags implantation 
+Annotation based feature flags implementation  
